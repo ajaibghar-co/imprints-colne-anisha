@@ -1,4 +1,4 @@
-# imprints-colne-anisha
+# handpose-and-sonic-demo
 
 Connecting OSC signal from p5js > sonic Pi
 
